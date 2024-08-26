@@ -1,5 +1,6 @@
 EternalNote | Made by Sofro
-https://eternalnote.ru/
+https://eternalnote.ru/ (На период 26.08.24 работа сайта приостановлена)
+
 
 Данный проект представляет собой обучающий сайт по игре на фортепиано, разработанный с помощью: HTML, CSS, JavaScript, PHP, MySQL.
 
